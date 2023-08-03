@@ -12,5 +12,6 @@ To start analyzing using ChatGPT:
 3. Immediately after clicking select the chat tab and place the cursor on the textarea
 4. Once the script types the first message, place the cursor on the delete conversation icon in ChatGPT.
 
+This is a work in progress.
 I will provide a better readme file in the future.
 Good luck everyone
