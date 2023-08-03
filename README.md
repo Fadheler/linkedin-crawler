@@ -1,4 +1,5 @@
 # linkedin-crawler
+(still writing a description for this)
 LinkedIn crawler and ChatGPT analysis.
 Install requirements using pip3.
 
